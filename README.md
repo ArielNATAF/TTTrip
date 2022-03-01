@@ -1,4 +1,4 @@
-#TTTrip
+# TTTrip
 
 Exercice _Tictactrip_ de **crunching de data**
 
